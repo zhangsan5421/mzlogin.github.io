@@ -1,10 +1,10 @@
 # ---------------- #
 #   Main Configs   #
 # ---------------- #
-baseurl:
+baseurl: http://zhangsan5421.github.io
 url: http://hellotrm.xyz
 date_format: "ordinal"
-title: 码志
+title: zhangsan5421 
 subtitle: "每天进步一点"
 description: "zhangsan5421的个人博客"
 keywords: zhangsan5421, trm, trmlogin
@@ -106,6 +106,3 @@ google:
 # ---------------- #
 #      Datas       #
 # ---------------- #
-skill_software_keywords: [Java, C++, Python, Design Patterns]
-skill_mobile_app_keywords: [Android, Reverse Engineering]
-skill_windows_keywords: [Win32 SDK, DuiLib, WTL, COM, WinDbg]
