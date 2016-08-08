@@ -19,7 +19,7 @@ permalink: /about/
 ## 联系
 
 * GitHub：[@zhangsan5421](https://github.com/zhangsan5421)
-* LinkedIn：[@mazhuang](https://www.linkedin.com/in/zhangsan5421)
+* LinkedIn：[@zhangsan5421](https://www.linkedin.com/in/zhangsan5421)
 * 博客：[{{ site.title }}]({{ site.url }})
 * 微博: [@zhangsan5421](http://weibo.com/zhangsan5421)
 * 知乎: [@zhangsan5421](http://www.zhihu.com/people/zhangsan5421)
