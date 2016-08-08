@@ -1,9 +1,11 @@
-yout: post
+---
+layout: post
 title: git 常用命令
 categories: git
 description: git 常用命令
 keywords: git , GitHub
 ---
+
 ## Git 常用命令
 
 1. git add filename
